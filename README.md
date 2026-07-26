@@ -28,7 +28,19 @@
 
 ## Скриншоты
 
-<!-- Скриншоты -->
+<details>
+<summary>Показать скриншоты</summary>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b899437f-e606-47f4-aa17-0d2f5d81eec3" width="23%" alt="Vivo Calendar Global screenshot 1">
+  <img src="https://github.com/user-attachments/assets/a4103ded-d9ac-4af0-a54b-4ef806f9c435" width="23%" alt="Vivo Calendar Global screenshot 2">
+  <img src="https://github.com/user-attachments/assets/0b81a25a-44e6-4c20-8033-3d0a893a6fe4" width="23%" alt="Vivo Calendar Global screenshot 3">
+  <img src="https://github.com/user-attachments/assets/6c77b88f-a27c-4517-8af4-efe4eb4371d6" width="23%" alt="Vivo Calendar Global screenshot 4">
+</p>
+
+</details>
 
 ## Скачать
 
@@ -54,4 +66,5 @@ Vivo Calendar Global является независимым проектом и
 Исходный код публично не распространяется.
 
 *vivo и OriginOS являются товарными знаками соответствующих правообладателей.*
+
 *Проект не связан, не спонсируется и не поддерживается vivo Mobile Communication Co., Ltd.*
